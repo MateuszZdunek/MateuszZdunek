@@ -1,17 +1,16 @@
-# Mateusz Zdunek
+## Mateusz Zdunek
 
-👋 Cześć! Nazywam się Mateusz Zdunek, a to moje repozytorium, w którym dokumentuję swoją podróż w świecie IT, szczególnie w obszarze cybersecurity. Zajmuję się rozwijaniem umiejętności, realizacją projektów oraz nauką nowych technologii.
+👨‍💻 **About Me**  
+I'm Mateusz Zdunek, an IT specialist passionate about cybersecurity and IT system administration. My expertise includes IT helpdesk, team leadership, and system security practices.  
 
-## 🧑‍🎓 Edukacja
-- **Tytuł inżyniera informatyki**: Ukończone studia I stopnia.
-- **Aktualne studia**: Informatyka, studia II stopnia.
+🎓 **Education**  
+- Bachelor's Degree in Computer Science  
+- Currently pursuing a Master's Degree in Computer Science  
 
-## 💼 Moja praca
-Obecnie pracuję jako **Helpdesk Team Leader**, gdzie zarządzam zespołem i dbam o sprawne funkcjonowanie infrastruktury IT.
+💼 **Professional Experience**  
+I am currently a Helpdesk Team Leader, managing IT operations and leading a team.  
 
-## 🔗 Kontakt
+🔗 **Contact**  
 - **LinkedIn**: [Mateusz Zdunek](https://linkedin.com/in/matzdunek)
 
----
-
-✨ Dziękuję za odwiedzenie mojego repozytorium!
+✨ Thanks for visiting my repo!
